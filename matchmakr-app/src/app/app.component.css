@@ -1,0 +1,16 @@
+.navbar-item {
+    margin: 5px;
+    background-color: slategrey;
+    border-radius: 5px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: aliceblue;
+}
+.navbar-item-text {
+    font-size: 18px;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: 5px;
+}
